@@ -1,2 +1,3 @@
 # Eczane-Envanter-Otomasyonu
-Eczane ve eczane envanteri bilgileri ile veritabanı oluşturarak, veritabanlarında arama/düzenleme/yazdırma işlemlerine olanak sağlayan programdır.
+Bu program INF212 dersi kapsamında proje olarak yapılmıştır.
+Ve teslim tarihinden sonra GitHub'a yüklenmiştir.
